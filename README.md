@@ -1,6 +1,6 @@
 # Mini RAG App
 
-A document question-answering system built for Track B using Retrieval-Augmented Generation (RAG). Users can upload a PDF, process it into chunks, store embeddings in Qdrant, retrieve relevant chunks, rerank them, and generate grounded answers with citations.
+A document question-answering system built using Retrieval-Augmented Generation (RAG). Users can upload a PDF, process it into chunks, store embeddings in Qdrant, retrieve relevant chunks, rerank them, and generate grounded answers with citations.
 
 ---
 
